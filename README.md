@@ -1,1 +1,1 @@
-Mirror of the defunct keyboard ghosting test by Microsoft Applied Sciences. Planned to be modified in the future.
+Attempt to reinvent musical interface with qwerty keyboards
